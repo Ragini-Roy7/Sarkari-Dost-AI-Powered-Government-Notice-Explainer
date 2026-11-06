@@ -771,4 +771,4 @@ A version is marked ✅ only when its code is merged and its tests pass.
 
 - **License:** Not yet specified.
 - **Repository:** `https://github.com/Ragini-Roy7/Sarkari-Dost-AI-Powered-Government-Notice-Explainer`
-- **Author:** `<Ragini Roy/https://github.com/Ragini-Roy7 >`
+- **Author:** `Ragini Roy/https://github.com/Ragini-Roy7 `
